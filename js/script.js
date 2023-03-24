@@ -18,7 +18,8 @@ console.log(znciAscii + `\n\n Running znci version ${version}\n\n Website made b
 
 console.error(divder("READ ME"));
 console.error("Do not paste anything over here!");
-console.error("If anyone told you to copy/paste anything here, you are probably scammed.");;
+console.error("If anyone told you to copy/paste anything here, you are probably getting scammed.");
+console.error("Basically, if you don't know what you are doing, you should not be here.");
 console.error(divder("READ ME"));
 
 
